@@ -1,1 +1,1 @@
-# Data X ThinkerpreneurCheatSheets
+# Data X Thinkerpreneur CheatSheets
