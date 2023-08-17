@@ -1,1 +1,1 @@
-# The Big List of CheatSheets
+# Data X ThinkerpreneurCheatSheets
